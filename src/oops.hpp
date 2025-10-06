@@ -2,4 +2,4 @@
 
 #include <string>
 
-std::string oops();
+int checkIfValid(int lower, int upper, std::string output, std::string error);
